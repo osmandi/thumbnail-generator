@@ -6,9 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
-# Images
+# Images and other files
 *.png
-*.jpg
+*.jpg 
+*.DS_Store
 
 # Distribution / packaging
 .Python
